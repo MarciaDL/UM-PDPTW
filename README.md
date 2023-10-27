@@ -1,9 +1,9 @@
 # UM-PDPTD
 
 
-Instances for the An unpaired multiple pickup and delivery problem with time deadline used in the paper: 
+Instances for the An unpaired multiple pickup and delivery problem with time windows used in the paper: 
 
-Yu, M., Shang, J., Du, M., Hu, X. An unpaired multiple pickup and delivery problem with time deadline for collaborative order fulfillment in omni-channel retailing, submitted, 2023.
+Yu, M., Shang, J., Du, M., Hu, X. Collaborative Order Fulfillment in Omni-Channel Retailing: Unpaired Multi-Pickup and Delivery with Time Windows, submitted, 2023.
 
 
 ** Instance type**
