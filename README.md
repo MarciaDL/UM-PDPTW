@@ -3,7 +3,7 @@
 
 Instances for the unpaired multi-pickup and delivery problem with time windows used in the paper: 
 
-Yu, M., Du, M., Shang, J., Hu, X. Collaborative Order Fulfillment in Omni-Channel Retailing: Unpaired Multi-Pickup and Delivery with Time Windows, submitted, 2024. 
+Yu, M., Du, M., Shang, J., Hu, X. Collaborative Order Fulfillment in Omni-Channel Retailing: Unpaired Multi-Pickup and Delivery with Time Windows, submitted, 2024.
 
 
 ** Instance type**
