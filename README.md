@@ -3,20 +3,20 @@
 
 Instances for the unpaired multi-pickup and delivery problem with time windows used in the paper: 
 
-Yu, M., Shang, J., Du, M., Hu, X. Collaborative Order Fulfillment in Omni-Channel Retailing: Unpaired Multi-Pickup and Delivery with Time Windows, submitted, 2023.
+Yu, M., Du, M., Shang, J., Hu, X. Collaborative Order Fulfillment in Omni-Channel Retailing: Unpaired Multi-Pickup and Delivery with Time Windows, submitted, 2024.
 
 
 ** Instance type**
 
-Each instance type is defined by three main elements: the number of pharmacies, the number of the vehicles, and the number of orders.
+Each instance type is defined by three main elements: the number of pharmacies, the number of orders, and the number of the deliverymen.
 
-An example about how to read the instance's type: the instances of 15_20_10 represent 15 pharmacies, 20 orders, and 10 vehicles.
+An example about how to read the instance's type: the instances of 15_20_10 represent 15 pharmacies, 20 orders, and 10 deliverymen.
 
 **Instance data**
 
 The data in each instance file is organized as follows:
 
-    First section: fixed cost of using a vehicle , capacity of each vehicle, time deadline of orders, vehicle travel cost coefficient with distance, vehicle travel time coefficient with distance.
+    First section: fixed cost of using a deliveryman, capacity of each deliveryman, time deadline of orders, travel cost coefficient with distance, travel time coefficient with distance.
     
     Second section: volume of each drug.
 
@@ -24,4 +24,4 @@ The data in each instance file is organized as follows:
 
     Four section: order ID, coordinate X, coordinate Y, drug categories required in order, the number of each category required in order.
 
-    Five section: vehicle ID, coordinate X, coordinate Y.
+    Five section: deliveryman ID, coordinate X, coordinate Y.
